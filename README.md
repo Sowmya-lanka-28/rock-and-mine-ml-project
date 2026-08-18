@@ -135,4 +135,4 @@ streamlit run app.py
 Data Scientist | Generative AI Engineer | Machine Learning Engineer
 
 * GitHub: https://github.com/Sowmya-lanka-28
-* LinkedIn: https://linkedin.com/in/sowmya-lanka-323806400
+* LinkedIn: https://www.linkedin.com/in/sowmya-lanka-376613426
